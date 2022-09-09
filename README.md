@@ -1,4 +1,4 @@
-# E-Commerce-
+# E-Commerce-application system
 
 Mongo DB;
 Express JS;
